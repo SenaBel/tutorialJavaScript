@@ -10,11 +10,11 @@ module.exports = {
       "outro@fabio.com"
     ],
     passengers: [
-      { name: "Ademar", birthYear: 1975 },
+      { name: "Magno", birthYear: 1975 },
       { name: "Tiago", birthYear: 1997 },
       { name: "Eduarda", birthYear: 2004 },
       { name: "Jessica", birthYear: 1984 },
-      { name: "Enzo", birthYear: 2015 },
+      { name: "Abel", birthYear: 2015 },
       { name: "Natan", birthYear: 2001 },
       { name: "Ana", birthYear: 1995 }
     ],
@@ -23,5 +23,32 @@ module.exports = {
       { product: "tenis", quantity: 3, unitPrice: 89 },
       { product: "bermuda", quantity: 1, unitPrice: 48 },
       { product: "camiseta", quantity: 2, unitPrice: 25 }
-    ]
+    ],
+    products:[
+      { name: 'Mouse Sem Fio', price: 30 },
+      { name: 'Pen Drive', price: 25 },
+      { name: 'Cartucho de Tinta', price: 50 },
+      { name: 'Suporte Ergonômico para Notebook', price: 23 },
+      { name: 'Repetidor de Sinal Wi-Fi', price: 44 }
+    ], 
+    users:[
+     { name: 'Abel Sena', premium: true },
+     { name: 'Grace Hopper', premium: false },
+     { name: 'Magno Turing', premium: true },
+     { name: 'Linus Torvalds', premium: false },
+     { name: 'Fabio Hamilton Busnello', premium: true }
+   ],
+    phaseScores:[
+    { name: 'Magno Turing', score: 337 },
+    { name: 'Abel Sena', score: 43 },
+    { name: 'Alfredo Braga', score: 234 },
+    { name: 'Fabio Hamilton Busnello', score: 261 },
+    { name: 'Ana Paula Rocha', score: 491 },
+    { name: 'Magno Turing', score: 167 },
+    { name: 'Abel Sena', score: 137 },
+    { name: 'Alfredo Braga', score: 135 },
+    { name: 'Ana Paula Rocha', score: 359 },
+    { name: 'Fabio Hamilton Busnello', score: 133 }
+  ]
   };
+
