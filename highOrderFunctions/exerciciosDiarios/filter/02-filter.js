@@ -4,4 +4,3 @@ para filtrar apenas os emails com o dominio "abelsena.com".
 02 - Deposis de usar o for. Agora você busca os emails com dominio "magno.com" usando o filter.
 */
 
-

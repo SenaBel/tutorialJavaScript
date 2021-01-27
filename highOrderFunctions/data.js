@@ -8,13 +8,13 @@ module.exports = {
       "eu@abelsena.com",
       "aloha@magno.com",
       "outro@fabio.com"
-    ],
+    ], 
     passengers: [
       { name: "Magno", birthYear: 1975 },
       { name: "Tiago", birthYear: 1997 },
       { name: "Eduarda", birthYear: 2004 },
       { name: "Jessica", birthYear: 1984 },
-      { name: "Abel", birthYear: 2015 },
+      { name: "Abel", birthYear: 1987 },
       { name: "Natan", birthYear: 2001 },
       { name: "Ana", birthYear: 1995 }
     ],
@@ -49,6 +49,14 @@ module.exports = {
     { name: 'Alfredo Braga', score: 135 },
     { name: 'Ana Paula Rocha', score: 359 },
     { name: 'Fabio Hamilton Busnello', score: 133 }
+  ],
+
+    cart:[
+    { name: 'Dark Souls III', price: 95.03 },
+    { name: 'Shadow of the Tomb Raider', price: 101.19 },
+    { name: 'Sekiro: Shadows Die Twice', price: 179.99 },
+    { name: 'Resident Evil 2', price: 119.90 },
+    { name: 'Death Stranding', price: 149.99 }
   ]
   };
 
