@@ -14,9 +14,12 @@ module.exports = {
       { name: "Tiago", birthYear: 1997 },
       { name: "Eduarda", birthYear: 2004 },
       { name: "Jessica", birthYear: 1984 },
-      { name: "Abel", birthYear: 1987 },
+      { name: "Abel", birthYear: 1989 },
       { name: "Natan", birthYear: 2001 },
-      { name: "Ana", birthYear: 1995 }
+      { name: "Ana", birthYear: 1995 },
+      { name: "Bob", birthYear: 1965 },
+      { name: "Oto", birthYear: 1985 },
+      { name: "Hannah", birthYear: 1983 },
     ],
     shopCart: [
       { product: "sapato", quantity: 2, unitPrice: 118 },
